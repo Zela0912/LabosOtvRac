@@ -1,0 +1,267 @@
+[
+    {
+        "Naziv": "BMW",
+        "Auti": [
+            {
+                "vin": "5UXTA6C0XM",
+                "county": "Kitsap",
+                "city": "Seabeck",
+                "state": "WA",
+                "postal_code": "98380",
+                "model_year": 2021,
+                "model_name": "X5",
+                "electric_vehicle_type": "Plug-in Hybrid Electric Vehicle (PHEV)",
+                "cafv_eligibility": "Clean Alternative Fuel Vehicle Eligible"
+            },
+            {
+                "vin": "5UXTS1C06M",
+                "county": "King",
+                "city": "Seattle",
+                "state": "WA",
+                "postal_code": "98107",
+                "model_year": 2021,
+                "model_name": "X5",
+                "electric_vehicle_type": "Plug-in Hybrid Electric Vehicle (PHEV)",
+                "cafv_eligibility": "Not eligible due to low battery range"
+            }
+        ]
+    },
+    {
+        "Naziv": "TESLA",
+        "Auti": [
+            {
+                "vin": "5YJ3E1EB1J",
+                "county": "Kitsap",
+                "city": "Poulsbo",
+                "state": "WA",
+                "postal_code": "98370",
+                "model_year": 2018,
+                "model_name": "MODEL 3",
+                "electric_vehicle_type": "Battery Electric Vehicle (BEV)",
+                "cafv_eligibility": "Clean Alternative Fuel Vehicle Eligible"
+            },
+            {
+                "vin": "5YJ3E1EB5J",
+                "county": "Kitsap",
+                "city": "Bremerton",
+                "state": "WA",
+                "postal_code": "98310",
+                "model_year": 2018,
+                "model_name": "MODEL 3",
+                "electric_vehicle_type": "Battery Electric Vehicle (BEV)",
+                "cafv_eligibility": "Clean Alternative Fuel Vehicle Eligible"
+            },
+            {
+                "vin": "5YJYGDEEXL",
+                "county": "King",
+                "city": "Renton",
+                "state": "WA",
+                "postal_code": "98055",
+                "model_year": 2020,
+                "model_name": "MODEL Y",
+                "electric_vehicle_type": "Battery Electric Vehicle (BEV)",
+                "cafv_eligibility": "Clean Alternative Fuel Vehicle Eligible"
+            },
+            {
+                "vin": "5YJSA1E20H",
+                "county": "King",
+                "city": "Seattle",
+                "state": "WA",
+                "postal_code": "98125",
+                "model_year": 2017,
+                "model_name": "MODEL S",
+                "electric_vehicle_type": "Battery Electric Vehicle (BEV)",
+                "cafv_eligibility": "Clean Alternative Fuel Vehicle Eligible"
+            },
+            {
+                "vin": "5YJ3E1EA5K",
+                "county": "Snohomish",
+                "city": "Lynnwood",
+                "state": "WA",
+                "postal_code": "98087",
+                "model_year": 2019,
+                "model_name": "MODEL 3",
+                "electric_vehicle_type": "Battery Electric Vehicle (BEV)",
+                "cafv_eligibility": "Clean Alternative Fuel Vehicle Eligible"
+            },
+            {
+                "vin": "5YJSA1DPXC",
+                "county": "Thurston",
+                "city": "Olympia",
+                "state": "WA",
+                "postal_code": "98502",
+                "model_year": 2012,
+                "model_name": "MODEL S",
+                "electric_vehicle_type": "Battery Electric Vehicle (BEV)",
+                "cafv_eligibility": "Clean Alternative Fuel Vehicle Eligible"
+            },
+            {
+                "vin": "5YJYGDEF8L",
+                "county": "Snohomish",
+                "city": "Edmonds",
+                "state": "WA",
+                "postal_code": "98026",
+                "model_year": 2020,
+                "model_name": "MODEL Y",
+                "electric_vehicle_type": "Battery Electric Vehicle (BEV)",
+                "cafv_eligibility": "Clean Alternative Fuel Vehicle Eligible"
+            },
+            {
+                "vin": "5YJ3E1EA6L",
+                "county": "King",
+                "city": "Duvall",
+                "state": "WA",
+                "postal_code": "98019",
+                "model_year": 2020,
+                "model_name": "MODEL 3",
+                "electric_vehicle_type": "Battery Electric Vehicle (BEV)",
+                "cafv_eligibility": "Clean Alternative Fuel Vehicle Eligible"
+            },
+            {
+                "vin": "5YJSA1H28F",
+                "county": "King",
+                "city": "Bothell",
+                "state": "WA",
+                "postal_code": "98011",
+                "model_year": 2015,
+                "model_name": "MODEL S",
+                "electric_vehicle_type": "Battery Electric Vehicle (BEV)",
+                "cafv_eligibility": "Clean Alternative Fuel Vehicle Eligible"
+            },
+            {
+                "vin": "5YJ3E1EB7K",
+                "county": "King",
+                "city": "Seattle",
+                "state": "WA",
+                "postal_code": "98115",
+                "model_year": 2019,
+                "model_name": "MODEL 3",
+                "electric_vehicle_type": "Battery Electric Vehicle (BEV)",
+                "cafv_eligibility": "Clean Alternative Fuel Vehicle Eligible"
+            }
+        ]
+    },
+    {
+        "Naziv": "PORSCHE",
+        "Auti": [
+            {
+                "vin": "WP0AD2A73G",
+                "county": "Snohomish",
+                "city": "Bothell",
+                "state": "WA",
+                "postal_code": "98012",
+                "model_year": 2016,
+                "model_name": "PANAMERA",
+                "electric_vehicle_type": "Plug-in Hybrid Electric Vehicle (PHEV)",
+                "cafv_eligibility": "Not eligible due to low battery range"
+            }
+        ]
+    },
+    {
+        "Naziv": "NISSAN",
+        "Auti": [
+            {
+                "vin": "1N4AZ1CP3K",
+                "county": "King",
+                "city": "Redmond",
+                "state": "WA",
+                "postal_code": "98052",
+                "model_year": 2019,
+                "model_name": "LEAF",
+                "electric_vehicle_type": "Battery Electric Vehicle (BEV)",
+                "cafv_eligibility": "Clean Alternative Fuel Vehicle Eligible"
+            },
+            {
+                "vin": "1N4AZ0CP0F",
+                "county": "King",
+                "city": "Bellevue",
+                "state": "WA",
+                "postal_code": "98007",
+                "model_year": 2015,
+                "model_name": "LEAF",
+                "electric_vehicle_type": "Battery Electric Vehicle (BEV)",
+                "cafv_eligibility": "Clean Alternative Fuel Vehicle Eligible"
+            }
+        ]
+    },
+    {
+        "Naziv": "FORD",
+        "Auti": [
+            {
+                "vin": "3FA6P0PU5F",
+                "county": "Snohomish",
+                "city": "Bothell",
+                "state": "WA",
+                "postal_code": "98012",
+                "model_year": 2015,
+                "model_name": "FUSION",
+                "electric_vehicle_type": "Plug-in Hybrid Electric Vehicle (PHEV)",
+                "cafv_eligibility": "Not eligible due to low battery range"
+            }
+        ]
+    },
+    {
+        "Naziv": "CHEVROLET",
+        "Auti": [
+            {
+                "vin": "1G1FX6S03H",
+                "county": "Kitsap",
+                "city": "Port Orchard",
+                "state": "WA",
+                "postal_code": "98366",
+                "model_year": 2017,
+                "model_name": "BOLT EV",
+                "electric_vehicle_type": "Battery Electric Vehicle (BEV)",
+                "cafv_eligibility": "Clean Alternative Fuel Vehicle Eligible"
+            }
+        ]
+    },
+    {
+        "Naziv": "TOYOTA",
+        "Auti": [
+            {
+                "vin": "JTMAB3FV5R",
+                "county": "Kitsap",
+                "city": "Poulsbo",
+                "state": "WA",
+                "postal_code": "98370",
+                "model_year": 2024,
+                "model_name": "RAV4 PRIME",
+                "electric_vehicle_type": "Plug-in Hybrid Electric Vehicle (PHEV)",
+                "cafv_eligibility": "Clean Alternative Fuel Vehicle Eligible"
+            }
+        ]
+    },
+    {
+        "Naziv": "VOLVO",
+        "Auti": [
+            {
+                "vin": "YV4H60LF5R",
+                "county": "Yakima",
+                "city": "Yakima",
+                "state": "WA",
+                "postal_code": "98908",
+                "model_year": 2024,
+                "model_name": "XC90",
+                "electric_vehicle_type": "Plug-in Hybrid Electric Vehicle (PHEV)",
+                "cafv_eligibility": "Clean Alternative Fuel Vehicle Eligible"
+            }
+        ]
+    },
+    {
+        "Naziv": "JEEP",
+        "Auti": [
+            {
+                "vin": "1C4RJXN64R",
+                "county": "Thurston",
+                "city": "Olympia",
+                "state": "WA",
+                "postal_code": "98502",
+                "model_year": 2024,
+                "model_name": "WRANGLER",
+                "electric_vehicle_type": "Plug-in Hybrid Electric Vehicle (PHEV)",
+                "cafv_eligibility": "Not eligible due to low battery range"
+            }
+        ]
+    }
+]

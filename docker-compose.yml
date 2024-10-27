@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:latest
+    container_name: car_data_db
+    environment:
+      POSTGRES_DB: carData
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: zela0912
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+volumes:
+  pgdata:
